@@ -1,6 +1,10 @@
-## Title
-	- སེ་ར་རྗེ་བཙུན་གྱིས་མཛད་པའི་ཚད་མ་རྣམ་འགྲེལ་གྱི་དོན་འགྲེལ་དང་མཐའ་དཔྱོད་སོགས།
-
-## Author
-	- 
-
+|P009398|སེ་ར་རྗེ་བཙུན་གྱིས་མཛད་པའི་ཚད་མ་རྣམ་འགྲེལ་གྱི་དོན་འགྲེལ་དང་མཐའ་དཔྱོད་སོགས། 
+| --- | --- 
+|Alternative Title |
+|Author| སེ་ར་རྗེ་བཙུན་ཆོས་ཀྱི་རྒྱལ་མཚན།
+|BDRC ID | W8602
+|Creator | Google OCR
+|Number of Volumes| 1
+|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/P009398)
+|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/P009398/releases/download/v1/sera_jetsun_gyi_dzepa_i_tsema__plain_P009398.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/P009398/releases/download/v1/sera_jetsun_gyi_dzepa_i_tsema__pages_P009398.zip)
+|<img width="25" src="https://img.icons8.com/plasticine/100/000000/pictures-folder.png"/>  Source Images | [<img width="25" src="https://library.bdrc.io/icons/BUDA-small.svg"> Images of text file open in BUDA](https://library.bdrc.io/show/bdr:W8602)
