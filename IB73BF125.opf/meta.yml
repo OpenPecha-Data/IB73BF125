@@ -1,0 +1,27 @@
+id: IB73BF125
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-26T11:38:17+00:00'
+last_modified: '2022-06-08T10:43:48.539334+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W8602
+  title: སེ་ར་རྗེ་བཙུན་གྱིས་མཛད་པའི་ཚད་མ་རྣམ་འགྲེལ་གྱི་དོན་འགྲེལ་དང་མཐའ་དཔྱོད་སོགས།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  base:
+    E92E:
+      image_group_id: I1KG12162
+      title: ''
+      total_pages: 614
+      order: 1
+      base_file: E92E.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
